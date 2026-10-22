@@ -1,6 +1,6 @@
 #include "pch.h"
 
-#include "../labwork_bitfield/tbitfield.h"
+#include "C:/labwork_bitfield/labwork_bitfield/tbitfield.h"
 
 
 TEST(TBitField, can_create_bitfield_with_positive_length)

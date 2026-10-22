@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\labwork_bitfield\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{340E1B4C-91D1-41BD-8C86-A2BEAC1ECE96}|labwork_bitfield\\labwork_bitfield.vcxproj|C:\\labwork_bitfield\\labwork_bitfield\\sample_prime_numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{340E1B4C-91D1-41BD-8C86-A2BEAC1ECE96}|labwork_bitfield\\labwork_bitfield.vcxproj|solutionrelative:labwork_bitfield\\sample_prime_numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340E1B4C-91D1-41BD-8C86-A2BEAC1ECE96}|labwork_bitfield\\labwork_bitfield.vcxproj|C:\\labwork_bitfield\\labwork_bitfield\\tbitfield.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{340E1B4C-91D1-41BD-8C86-A2BEAC1ECE96}|labwork_bitfield\\labwork_bitfield.vcxproj|solutionrelative:labwork_bitfield\\tbitfield.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD18CFD1-7551-4641-A1C7-A0BABF6AAD19}|test_bitfield\\test_bitfield.vcxproj|C:\\labwork_bitfield\\test_bitfield\\test_tbitfield.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD18CFD1-7551-4641-A1C7-A0BABF6AAD19}|test_bitfield\\test_bitfield.vcxproj|solutionrelative:test_bitfield\\test_tbitfield.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340E1B4C-91D1-41BD-8C86-A2BEAC1ECE96}|labwork_bitfield\\labwork_bitfield.vcxproj|C:\\labwork_bitfield\\labwork_bitfield\\tset.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{340E1B4C-91D1-41BD-8C86-A2BEAC1ECE96}|labwork_bitfield\\labwork_bitfield.vcxproj|solutionrelative:labwork_bitfield\\tset.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD18CFD1-7551-4641-A1C7-A0BABF6AAD19}|test_bitfield\\test_bitfield.vcxproj|C:\\labwork_bitfield\\test_bitfield\\test_tset.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD18CFD1-7551-4641-A1C7-A0BABF6AAD19}|test_bitfield\\test_bitfield.vcxproj|solutionrelative:test_bitfield\\test_tset.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD18CFD1-7551-4641-A1C7-A0BABF6AAD19}|test_bitfield\\test_bitfield.vcxproj|C:\\labwork_bitfield\\test_bitfield\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD18CFD1-7551-4641-A1C7-A0BABF6AAD19}|test_bitfield\\test_bitfield.vcxproj|solutionrelative:test_bitfield\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD18CFD1-7551-4641-A1C7-A0BABF6AAD19}|test_bitfield\\test_bitfield.vcxproj|C:\\labwork_bitfield\\test_bitfield\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD18CFD1-7551-4641-A1C7-A0BABF6AAD19}|test_bitfield\\test_bitfield.vcxproj|solutionrelative:test_bitfield\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340E1B4C-91D1-41BD-8C86-A2BEAC1ECE96}|labwork_bitfield\\labwork_bitfield.vcxproj|C:\\labwork_bitfield\\labwork_bitfield\\tbitfield.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{340E1B4C-91D1-41BD-8C86-A2BEAC1ECE96}|labwork_bitfield\\labwork_bitfield.vcxproj|solutionrelative:labwork_bitfield\\tbitfield.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340E1B4C-91D1-41BD-8C86-A2BEAC1ECE96}|labwork_bitfield\\labwork_bitfield.vcxproj|C:\\labwork_bitfield\\labwork_bitfield\\tset.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{340E1B4C-91D1-41BD-8C86-A2BEAC1ECE96}|labwork_bitfield\\labwork_bitfield.vcxproj|solutionrelative:labwork_bitfield\\tset.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sample_prime_numbers.cpp",
+              "DocumentMoniker": "C:\\labwork_bitfield\\labwork_bitfield\\sample_prime_numbers.cpp",
+              "RelativeDocumentMoniker": "labwork_bitfield\\sample_prime_numbers.cpp",
+              "ToolTip": "C:\\labwork_bitfield\\labwork_bitfield\\sample_prime_numbers.cpp*",
+              "RelativeToolTip": "labwork_bitfield\\sample_prime_numbers.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-22T17:17:33.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "tset.h",
+              "DocumentMoniker": "C:\\labwork_bitfield\\labwork_bitfield\\tset.h",
+              "RelativeDocumentMoniker": "labwork_bitfield\\tset.h",
+              "ToolTip": "C:\\labwork_bitfield\\labwork_bitfield\\tset.h",
+              "RelativeToolTip": "labwork_bitfield\\tset.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-22T17:13:26.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "tbitfield.h",
+              "DocumentMoniker": "C:\\labwork_bitfield\\labwork_bitfield\\tbitfield.h",
+              "RelativeDocumentMoniker": "labwork_bitfield\\tbitfield.h",
+              "ToolTip": "C:\\labwork_bitfield\\labwork_bitfield\\tbitfield.h",
+              "RelativeToolTip": "labwork_bitfield\\tbitfield.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-22T17:13:26.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "C:\\labwork_bitfield\\test_bitfield\\pch.cpp",
+              "RelativeDocumentMoniker": "test_bitfield\\pch.cpp",
+              "ToolTip": "C:\\labwork_bitfield\\test_bitfield\\pch.cpp",
+              "RelativeToolTip": "test_bitfield\\pch.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-22T17:13:21.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "pch.h",
+              "DocumentMoniker": "C:\\labwork_bitfield\\test_bitfield\\pch.h",
+              "RelativeDocumentMoniker": "test_bitfield\\pch.h",
+              "ToolTip": "C:\\labwork_bitfield\\test_bitfield\\pch.h",
+              "RelativeToolTip": "test_bitfield\\pch.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-22T17:13:20.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tbitfield.cpp",
+              "DocumentMoniker": "C:\\labwork_bitfield\\labwork_bitfield\\tbitfield.cpp",
+              "RelativeDocumentMoniker": "labwork_bitfield\\tbitfield.cpp",
+              "ToolTip": "C:\\labwork_bitfield\\labwork_bitfield\\tbitfield.cpp",
+              "RelativeToolTip": "labwork_bitfield\\tbitfield.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-22T17:13:12.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test_tbitfield.cpp",
+              "DocumentMoniker": "C:\\labwork_bitfield\\test_bitfield\\test_tbitfield.cpp",
+              "RelativeDocumentMoniker": "test_bitfield\\test_tbitfield.cpp",
+              "ToolTip": "C:\\labwork_bitfield\\test_bitfield\\test_tbitfield.cpp",
+              "RelativeToolTip": "test_bitfield\\test_tbitfield.cpp",
+              "ViewState": "AgIAADEAAAAAAAAAAAAtwDEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-22T17:13:11.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "test_tset.cpp",
+              "DocumentMoniker": "C:\\labwork_bitfield\\test_bitfield\\test_tset.cpp",
+              "RelativeDocumentMoniker": "test_bitfield\\test_tset.cpp",
+              "ToolTip": "C:\\labwork_bitfield\\test_bitfield\\test_tset.cpp",
+              "RelativeToolTip": "test_bitfield\\test_tset.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-22T17:13:10.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tset.cpp",
+              "DocumentMoniker": "C:\\labwork_bitfield\\labwork_bitfield\\tset.cpp",
+              "RelativeDocumentMoniker": "labwork_bitfield\\tset.cpp",
+              "ToolTip": "C:\\labwork_bitfield\\labwork_bitfield\\tset.cpp",
+              "RelativeToolTip": "labwork_bitfield\\tset.cpp",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-22T17:13:01.627Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

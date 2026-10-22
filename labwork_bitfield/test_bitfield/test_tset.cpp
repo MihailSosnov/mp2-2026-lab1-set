@@ -1,6 +1,6 @@
 #include "pch.h"
 
-#include "../labwork_bitfield/tset.h"
+#include "C:/labwork_bitfield/labwork_bitfield/tset.h"
 
 
 TEST(TSet, can_get_max_power_set)

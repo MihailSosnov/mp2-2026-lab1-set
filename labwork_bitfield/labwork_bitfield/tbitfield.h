@@ -1,10 +1,4 @@
 #pragma once
-// ННГУ, ВМК, Курс "Методы программирования-2", С++, ООП
-//
-// tbitfield.h - Copyright (c) Гергель В.П. 07.05.2001
-//   Переработано для Microsoft Visual Studio 2008 Сысоевым А.В. (19.04.2015)
-//	 Update без сборки для Microsoft Visual Studio 2026 Бусько П.В.
-// 
 // Битовое поле
 
 #include <iostream>
@@ -24,9 +18,9 @@ private:
 	int   GetMemIndex(const int n) const; // индекс в pМем для бита n       (#О2)
 	TELEM GetMemMask(const int n) const; // битовая маска для бита n       (#О3)
 public:
-	TBitField(int len);                //                                   (#О1)
-	TBitField(const TBitField& bf);    //                                   (#П1)
-	~TBitField();                      //                                    (#С)
+	TBitField(int len);                // Конструктор Реализации                                  (#О1)
+	TBitField(const TBitField& bf);    // Конструктор Копирования                                  (#П1)
+	~TBitField();                      // Деструктор                                   (#С)
 
 	// доступ к битам
 	int GetLength(void) const;      // получить длину (к-во битов)           (#О)

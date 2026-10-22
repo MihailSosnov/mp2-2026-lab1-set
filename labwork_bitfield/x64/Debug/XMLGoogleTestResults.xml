@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="46" failures="0" disabled="0" errors="0" timestamp="2026-10-22T20:32:42" time="0.021" name="AllTests">
+  <testsuite name="TBitField" tests="25" failures="0" disabled="0" errors="0" time="0.004">
+    <testcase name="can_create_bitfield_with_positive_length" status="run" time="0" classname="TBitField" />
+    <testcase name="can_get_length" status="run" time="0" classname="TBitField" />
+    <testcase name="new_bitfield_is_set_to_zero" status="run" time="0" classname="TBitField" />
+    <testcase name="can_set_bit" status="run" time="0" classname="TBitField" />
+    <testcase name="can_clear_bit" status="run" time="0" classname="TBitField" />
+    <testcase name="throws_when_create_bitfield_with_negative_length" status="run" time="0.001" classname="TBitField" />
+    <testcase name="throws_when_set_bit_with_negative_index" status="run" time="0.001" classname="TBitField" />
+    <testcase name="throws_when_set_bit_with_too_large_index" status="run" time="0" classname="TBitField" />
+    <testcase name="throws_when_get_bit_with_negative_index" status="run" time="0" classname="TBitField" />
+    <testcase name="throws_when_get_bit_with_too_large_index" status="run" time="0" classname="TBitField" />
+    <testcase name="throws_when_clear_bit_with_negative_index" status="run" time="0.001" classname="TBitField" />
+    <testcase name="throws_when_clear_bit_with_too_large_index" status="run" time="0" classname="TBitField" />
+    <testcase name="can_assign_bitfields_of_equal_size" status="run" time="0" classname="TBitField" />
+    <testcase name="assign_operator_changes_bitfield_size" status="run" time="0" classname="TBitField" />
+    <testcase name="can_assign_bitfields_of_non_equal_size" status="run" time="0" classname="TBitField" />
+    <testcase name="compare_equal_bitfields_of_equal_size" status="run" time="0" classname="TBitField" />
+    <testcase name="or_operator_applied_to_bitfields_of_equal_size" status="run" time="0" classname="TBitField" />
+    <testcase name="or_operator_applied_to_bitfields_of_non_equal_size" status="run" time="0" classname="TBitField" />
+    <testcase name="and_operator_applied_to_bitfields_of_equal_size" status="run" time="0" classname="TBitField" />
+    <testcase name="and_operator_applied_to_bitfields_of_non_equal_size" status="run" time="0" classname="TBitField" />
+    <testcase name="can_invert_bitfield" status="run" time="0" classname="TBitField" />
+    <testcase name="can_invert_large_bitfield" status="run" time="0" classname="TBitField" />
+    <testcase name="invert_plus_and_operator_on_different_size_bitfield" status="run" time="0" classname="TBitField" />
+    <testcase name="can_invert_many_random_bits_bitfield" status="run" time="0" classname="TBitField" />
+    <testcase name="bitfields_with_different_bits_are_not_equal" status="run" time="0" classname="TBitField" />
+  </testsuite>
+  <testsuite name="TSet" tests="21" failures="0" disabled="0" errors="0" time="0.016">
+    <testcase name="can_get_max_power_set" status="run" time="0" classname="TSet" />
+    <testcase name="can_insert_non_existing_element" status="run" time="0" classname="TSet" />
+    <testcase name="can_insert_existing_element" status="run" time="0" classname="TSet" />
+    <testcase name="can_delete_non_existing_element" status="run" time="0" classname="TSet" />
+    <testcase name="can_delete_existing_element" status="run" time="0" classname="TSet" />
+    <testcase name="compare_two_sets_of_non_equal_sizes" status="run" time="0" classname="TSet" />
+    <testcase name="compare_two_equal_sets" status="run" time="0" classname="TSet" />
+    <testcase name="compare_two_non_equal_sets" status="run" time="0" classname="TSet" />
+    <testcase name="can_assign_set_of_equal_size" status="run" time="0" classname="TSet" />
+    <testcase name="can_assign_set_of_greater_size" status="run" time="0" classname="TSet" />
+    <testcase name="can_assign_set_of_less_size" status="run" time="0" classname="TSet" />
+    <testcase name="can_insert_non_existing_element_using_plus_operator" status="run" time="0" classname="TSet" />
+    <testcase name="throws_when_insert_non_existing_element_out_of_range_using_plus_operator" status="run" time="0" classname="TSet" />
+    <testcase name="can_insert_existing_element_using_plus_operator" status="run" time="0" classname="TSet" />
+    <testcase name="check_size_of_the_combination_of_two_sets_of_equal_size" status="run" time="0" classname="TSet" />
+    <testcase name="can_combine_two_sets_of_equal_size" status="run" time="0" classname="TSet" />
+    <testcase name="check_size_changes_of_the_combination_of_two_sets_of_non_equal_size" status="run" time="0.001" classname="TSet" />
+    <testcase name="can_combine_two_sets_of_non_equal_size" status="run" time="0" classname="TSet" />
+    <testcase name="can_intersect_two_sets_of_equal_size" status="run" time="0" classname="TSet" />
+    <testcase name="can_intersect_two_sets_of_non_equal_size" status="run" time="0" classname="TSet" />
+    <testcase name="check_negation_operator" status="run" time="0" classname="TSet" />
+  </testsuite>
+</testsuites>
