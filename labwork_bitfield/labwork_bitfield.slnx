@@ -1,8 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="labwork_bitfield/labwork_bitfield.vcxproj" Id="340e1b4c-91d1-41bd-8c86-a2beac1ece96" />
-  <Project Path="test_bitfield/test_bitfield.vcxproj" Id="bd18cfd1-7551-4641-a1c7-a0babf6aad19" />
-</Solution>
